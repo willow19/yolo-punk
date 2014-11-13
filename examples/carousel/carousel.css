@@ -121,7 +121,11 @@ h2.featurette-heading {
   line-height: 1;
   letter-spacing: -1px;
 }
-
+/*Customize list*/
+ul {
+    font-size: 21px;
+    list-style-type: square;
+}
 
 /* RESPONSIVE CSS
 -------------------------------------------------- */
